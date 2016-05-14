@@ -57,7 +57,7 @@ public class MainActivity extends ActionBarActivity {
     }
     public void resetscore(View view)
     {
-        scoreTeamA=0;
+        scoreTeamA=0;git remote add origin 'link'
         scoreTeamB=0;
         displayForTeamA(scoreTeamA);
         displayForTeamB(scoreTeamB);
